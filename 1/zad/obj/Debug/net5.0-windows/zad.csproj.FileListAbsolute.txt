@@ -1,0 +1,17 @@
+C:\Users\Michal\Desktop\zadaniaLab2\zadanie1\zad1lab2\bin\Debug\net5.0-windows\zad.exe
+C:\Users\Michal\Desktop\zadaniaLab2\zadanie1\zad1lab2\bin\Debug\net5.0-windows\zad.deps.json
+C:\Users\Michal\Desktop\zadaniaLab2\zadanie1\zad1lab2\bin\Debug\net5.0-windows\zad.runtimeconfig.json
+C:\Users\Michal\Desktop\zadaniaLab2\zadanie1\zad1lab2\bin\Debug\net5.0-windows\zad.runtimeconfig.dev.json
+C:\Users\Michal\Desktop\zadaniaLab2\zadanie1\zad1lab2\bin\Debug\net5.0-windows\zad.dll
+C:\Users\Michal\Desktop\zadaniaLab2\zadanie1\zad1lab2\bin\Debug\net5.0-windows\ref\zad.dll
+C:\Users\Michal\Desktop\zadaniaLab2\zadanie1\zad1lab2\bin\Debug\net5.0-windows\zad.pdb
+C:\Users\Michal\Desktop\zadaniaLab2\zadanie1\zad1lab2\obj\Debug\net5.0-windows\zad1lab2.Form1.resources
+C:\Users\Michal\Desktop\zadaniaLab2\zadanie1\zad1lab2\obj\Debug\net5.0-windows\zad.csproj.GenerateResource.cache
+C:\Users\Michal\Desktop\zadaniaLab2\zadanie1\zad1lab2\obj\Debug\net5.0-windows\zad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michal\Desktop\zadaniaLab2\zadanie1\zad1lab2\obj\Debug\net5.0-windows\zad.AssemblyInfoInputs.cache
+C:\Users\Michal\Desktop\zadaniaLab2\zadanie1\zad1lab2\obj\Debug\net5.0-windows\zad.AssemblyInfo.cs
+C:\Users\Michal\Desktop\zadaniaLab2\zadanie1\zad1lab2\obj\Debug\net5.0-windows\zad.csproj.CoreCompileInputs.cache
+C:\Users\Michal\Desktop\zadaniaLab2\zadanie1\zad1lab2\obj\Debug\net5.0-windows\zad.dll
+C:\Users\Michal\Desktop\zadaniaLab2\zadanie1\zad1lab2\obj\Debug\net5.0-windows\ref\zad.dll
+C:\Users\Michal\Desktop\zadaniaLab2\zadanie1\zad1lab2\obj\Debug\net5.0-windows\zad.pdb
+C:\Users\Michal\Desktop\zadaniaLab2\zadanie1\zad1lab2\obj\Debug\net5.0-windows\zad.genruntimeconfig.cache
